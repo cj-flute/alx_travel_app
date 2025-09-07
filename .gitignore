@@ -1,3 +1,5 @@
 *.venv
 
 *.gitinore
+
+*.env
